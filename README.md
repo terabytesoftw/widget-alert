@@ -29,6 +29,8 @@
     </a>		
 </p>
 
+</br>
+
 ### **DIRECTORY STRUCTURE:**
 
 ```
@@ -67,18 +69,43 @@ Alert widget renders a message from session flash. All flash messages are displa
 
 Flash Messages:
 
+<p align="left">
+    <img src="https://lh3.googleusercontent.com/SsJX4Pp_OsMRgiEbCS-iFFQ9_beh4TUHftDekuWN9IZa9l1fOzQLVfV2-cmsPZqMN05cw4KgT2v6H4U1vnjX_5DLkgPijY3gElotH_qNGENH7ZWNvnSwJrFuyFia2HKzHMrNF8EggA=w2400" height="100%;">
+</p>
+
+ ```php
+Controllers:
+
+$this->module->session->setFlash('primary', 'A simple primary alert—check it out!');
+
+Views:
+
+$this->context->module->session->setFlash('primary', 'A simple primary alert—check it out!');
+
+```
+
  ```php
 Controllers:
 
 $this->module->session->setFlash('danger', 'This is the message');
 $this->module->session->setFlash('success', 'This is the message');
 $this->module->session->setFlash('info', 'This is the message');
+$this->module->session->setFlash('light', 'This is the message');
+$this->module->session->setFlash('primary', 'This is the message');
+$this->module->session->setFlash('secondary', 'This is the message');
+$this->module->session->setFlash('success', 'This is the message');
+$this->module->session->setFlash('warning', 'This is the message');
 
 Views:
 
 $this->context->module->session->setFlash('danger', 'This is the message');
 $this->context->module->session->setFlash('success', 'This is the message');
 $this->context->module->session->setFlash('info', 'This is the message');
+$this->context->module->session->setFlash('light', 'This is the message');
+$this->context->module->session->setFlash('primary', 'This is the message');
+$this->context->module->session->setFlash('secondary', 'This is the message');
+$this->context->module->session->setFlash('success', 'This is the message');
+$this->context->module->session->setFlash('warning', 'This is the message');
 
 ```
 
@@ -101,6 +128,16 @@ use terabytesoft\widgets\Alert;
 
 <?= Alert::widget() ?>
 ```
+
+### **RUN TESTS CODECEPTION:**
+
+~~~
+// download all composer dependencies root project
+$ composer update --prefer-dist -vvv
+
+// run all tests with code coverage
+$ vendor/bin/codecept run unit --coverage-xml
+~~~
 
 ### **WEB SERVER SUPPORT:**
 
