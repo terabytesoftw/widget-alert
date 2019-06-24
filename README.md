@@ -6,26 +6,26 @@
 </p>
 
 <p align="center">
-    <a href="https://packagist.org/packages/terabytesoftw/alert" target="_blank">
+    <a href="https://packagist.org/packages/terabytesoftw/widget-alert" target="_blank">
         <img src="https://poser.pugx.org/terabytesoftw/alert/v/unstable" alt="Unstable Version">
     </a>
-    <a href="https://travis-ci.org/terabytesoftw/alert" target="_blank">
-        <img src="https://travis-ci.org/terabytesoftw/alert.svg?branch=master" alt="Build Status">
+    <a href="https://travis-ci.org/terabytesoftw/widget-alert" target="_blank">
+        <img src="https://travis-ci.org/terabytesoftw/widget-alert.svg?branch=master" alt="Build Status">
     </a>  
-    <a href="https://scrutinizer-ci.com/g/terabytesoftw/alert" target="_blank">
-        <img src="https://scrutinizer-ci.com/g/terabytesoftw/alert/badges/build.png?b=master" alt="Build Status">
+    <a href="https://scrutinizer-ci.com/g/terabytesoftw/widget-alert" target="_blank">
+        <img src="https://scrutinizer-ci.com/g/terabytesoftw/widget-alert/badges/build.png?b=master" alt="Build Status">
     </a>
-    <a href="https://scrutinizer-ci.com/g/terabytesoftw/alert" target="_blank">
-        <img src="https://scrutinizer-ci.com/g/terabytesoftw/alert/badges/coverage.png?b=master" alt="Build Status">
+    <a href="https://scrutinizer-ci.com/g/terabytesoftw/widget-alert" target="_blank">
+        <img src="https://scrutinizer-ci.com/g/terabytesoftw/widget-alert/badges/coverage.png?b=master" alt="Build Status">
     </a>    
-    <a href="https://scrutinizer-ci.com/g/terabytesoftw/alert/?branch=master" target="_blank">
-     	<img src="https://scrutinizer-ci.com/g/terabytesoftw/alert/badges/quality-score.png?b=master" alt="Code Quality">
+    <a href="https://scrutinizer-ci.com/g/terabytesoftw/widget-alert/?branch=master" target="_blank">
+     	<img src="https://scrutinizer-ci.com/g/terabytesoftw/widget-alert/badges/quality-score.png?b=master" alt="Code Quality">
     </a>
     <a href="https://scrutinizer-ci.com/code-intelligence" target="_blank">
-     	<img src="https://scrutinizer-ci.com/g/terabytesoftw/alert/badges/code-intelligence.svg?b=master" alt="Code Intelligence Status">
+     	<img src="https://scrutinizer-ci.com/g/terabytesoftw/widget-alert/badges/code-intelligence.svg?b=master" alt="Code Intelligence Status">
     </a>
-    <a href="https://codeclimate.com/github/terabytesoftw/alert/maintainability" target="_blank">
-        <img src="https://api.codeclimate.com/v1/badges/b935d08f9aee944d1b25/maintainability" alt="Maintainability">
+    <a href="https://codeclimate.com/github/terabytesoftw/widget-alert/maintainability" target="_blank">
+        <img src="https://api.codeclimate.com/v1/badges/29e110aa0c3175ebd9f3/maintainability" alt="Maintainability">
     </a>		
 </p>
 
@@ -114,7 +114,7 @@ use terabytesoft\widgets\Alert;
 
 ### **LICENSE:**
 
-[![License](https://poser.pugx.org/terabytesoft/alert/license)](https://packagist.org/packages/terabytesoftw/alert)
+[![License](https://poser.pugx.org/terabytesoft/widget-alert/license)](https://packagist.org/packages/terabytesoftw/alert)
 [![YiiFramework](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
-[![Total Downloads](https://poser.pugx.org/terabytesoftw/alert/downloads)](https://packagist.org/packages/terabytesoftw/alert)
+[![Total Downloads](https://poser.pugx.org/terabytesoftw/widget-alert/downloads)](https://packagist.org/packages/terabytesoftw/alert)
 [![StyleCI](https://github.styleci.io/repos/193534793/shield?branch=master)](https://github.styleci.io/repos/193534793)

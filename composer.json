@@ -1,5 +1,5 @@
 {
-    "name": "terabytesoftw/alert",
+    "name": "terabytesoftw/widget-alert",
     "type": "yii2-extension",
     "description": "Widget Alert with Bootstrap4",
     "keywords": [
