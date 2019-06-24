@@ -21,7 +21,7 @@ install:
 script:
   - |
     vendor/bin/codecept build
-    vendor/bin/codecept run --coverage-xml
+    vendor/bin/codecept run unit --coverage-xml
 
 after_script:
   - |
