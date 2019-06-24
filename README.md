@@ -114,7 +114,7 @@ use terabytesoft\widgets\Alert;
 
 ### **LICENSE:**
 
-[![License](https://poser.pugx.org/terabytesoft/widget-alert/license)](https://packagist.org/packages/terabytesoftw/alert)
+[![License](https://poser.pugx.org/terabytesoftw/widget-alert/license)](https://packagist.org/packages/terabytesoftw/widget-alert)
 [![YiiFramework](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
-[![Total Downloads](https://poser.pugx.org/terabytesoftw/widget-alert/downloads)](https://packagist.org/packages/terabytesoftw/alert)
+[![Total Downloads](https://poser.pugx.org/terabytesoftw/widget-alert/downloads)](https://packagist.org/packages/terabytesoftw/widget-alert)
 [![StyleCI](https://github.styleci.io/repos/193534793/shield?branch=master)](https://github.styleci.io/repos/193534793)
