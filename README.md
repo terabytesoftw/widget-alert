@@ -5,12 +5,29 @@
     <h1 align="center">Widget Alert with Bootstrap 4</h1>
 </p>
 
-[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
-[![Build Status](https://scrutinizer-ci.com/g/terabytesoft/alert/badges/build.png?b=master)](https://scrutinizer-ci.com/g/terabytesoft/alert/build-status/master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/terabytesoft/alert/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/terabytesoft/alert/?branch=master)
-[![Code Intelligence Status](https://scrutinizer-ci.com/g/terabytesoft/alert/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/code-intelligence)
-[![Maintainability](https://api.codeclimate.com/v1/badges/b2806ebe6fe5b117ea20/maintainability)](https://codeclimate.com/github/terabytesoft/alert/maintainability)
-[![Total Downloads](https://poser.pugx.org/cjtterabytesoft/alert/downloads)](https://packagist.org/packages/terabytesoft/alert)
+<p align="center">
+    <a href="https://packagist.org/packages/terabytesoftw/alert" target="_blank">
+        <img src="https://poser.pugx.org/terabytesoftw/alert/v/unstable" alt="Unstable Version">
+    </a>
+    <a href="https://travis-ci.org/terabytesoftw/alert" target="_blank">
+        <img src="https://travis-ci.org/terabytesoftw/alert.svg?branch=master" alt="Build Status">
+    </a>  
+    <a href="https://scrutinizer-ci.com/g/terabytesoftw/alert" target="_blank">
+        <img src="https://scrutinizer-ci.com/g/terabytesoftw/alert/badges/build.png?b=master" alt="Build Status">
+    </a>
+    <a href="https://scrutinizer-ci.com/g/terabytesoftw/alert" target="_blank">
+        <img src="https://scrutinizer-ci.com/g/terabytesoftw/alert/badges/coverage.png?b=master" alt="Build Status">
+    </a>    
+    <a href="https://scrutinizer-ci.com/g/terabytesoftw/alert/?branch=master" target="_blank">
+     	<img src="https://scrutinizer-ci.com/g/terabytesoftw/alert/badges/quality-score.png?b=master" alt="Code Quality">
+    </a>
+    <a href="https://scrutinizer-ci.com/code-intelligence" target="_blank">
+     	<img src="https://scrutinizer-ci.com/g/terabytesoftw/alert/badges/code-intelligence.svg?b=master" alt="Code Intelligence Status">
+    </a>
+    <a href="https://codeclimate.com/github/terabytesoftw/alert/maintainability" target="_blank">
+        <img src="https://api.codeclimate.com/v1/badges/b935d08f9aee944d1b25/maintainability" alt="Maintainability">
+    </a>		
+</p>
 
 ### **DIRECTORY STRUCTURE:**
 
@@ -97,7 +114,7 @@ use terabytesoft\widgets\Alert;
 
 ### **LICENSE:**
 
-[![License](https://poser.pugx.org/terabytesoft/alert/license)](https://packagist.org/packages/terabytesoft/alert)
+[![License](https://poser.pugx.org/terabytesoft/alert/license)](https://packagist.org/packages/terabytesoftw/alert)
 [![YiiFramework](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
-[![Total Downloads](https://poser.pugx.org/terabytesoftw/app-basic/downloads)](https://packagist.org/packages/terabytesoft/app-basic)
-[![Total Downloads](https://github.styleci.io/repos/165419144/shield?branch=master)](https://github.styleci.io/repos/165419144)
+[![Total Downloads](https://poser.pugx.org/terabytesoftw/alert/downloads)](https://packagist.org/packages/terabytesoftw/alert)
+[![StyleCI](https://github.styleci.io/repos/193534793/shield?branch=master)](https://github.styleci.io/repos/193534793)
