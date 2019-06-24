@@ -6,5 +6,4 @@ namespace Terabytesoft\Widgets\Helper;
 
 class Unit extends \Codeception\Module
 {
-
 }
