@@ -1,5 +1,5 @@
-Yii 2.0 Widget Alert with Bootstrap4
-====================================
+Yii 2.0 Widget Alert with Bootstrap 4
+=====================================
 
 1.0.0 under development
 -----------------------

@@ -35,8 +35,8 @@
 
 ```
 config/             contains widget configurations
-src/                contains widgets custom application
-tests/              contains test widgets
+src/                contains source widget file
+tests/              contains test codeception
 ```
 
 ### **REQUIREMENTS:**
@@ -53,19 +53,19 @@ You can then install this project template using the following command:
 ##### Linux:
 
 ```
-php composer.phar require --prefer-dist terabytesoftw/alert "^1.0.x-dev"
+php composer.phar require --prefer-dist terabytesoftw/alert "^1.0-dev"
 ```
 
 ##### Windows:
 
 ```
-composer require --prefer-dist terabytesoftw/alert "^1.0.x-dev"
+composer require --prefer-dist terabytesoftw/alert "^1.0-dev"
 ```
 
 ### **USAGE:**
 
 Alert widget renders a message from session flash. All flash messages are displayed
- in the sequence they were assigned using setFlash. You can set message as following:.
+in the sequence they were assigned using setFlash. You can set message as following:.
 
 Flash Messages:
 
