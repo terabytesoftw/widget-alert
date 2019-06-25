@@ -34,7 +34,7 @@
 		"psr-4": {"terabytesoft\\widgets\\": "src"}
     },
     "autoload-dev": {
-        "psr-4": {"terabyteSoft\\widgets\\tests\\": "tests"}
+        "psr-4": {"terabytesoft\\widgets\\tests\\": "tests"}
     },
     "config": {
         "fxp-asset": {

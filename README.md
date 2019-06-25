@@ -7,7 +7,7 @@
 
 <p align="center">
     <a href="https://packagist.org/packages/terabytesoftw/widget-alert" target="_blank">
-        <img src="https://poser.pugx.org/terabytesoftw/alert/v/unstable" alt="Unstable Version">
+        <img src="https://poser.pugx.org/terabytesoftw/widget-alert/v/unstable" alt="Unstable Version">
     </a>
     <a href="https://travis-ci.org/terabytesoftw/widget-alert" target="_blank">
         <img src="https://travis-ci.org/terabytesoftw/widget-alert.svg?branch=master" alt="Build Status">
